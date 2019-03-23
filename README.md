@@ -1,3 +1,7 @@
+# Purpose of this Fork
+
+The purpose of this fork is to add support for the Reflow Master board: https://github.com/UnexpectedMaker/ReflowMaster
+
 # UF2 Bootloader
 
 This repository contains a bootloader, derived from Atmel's SAM-BA,
